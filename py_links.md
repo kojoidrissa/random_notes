@@ -9,6 +9,8 @@
         +  acting as a frontend to Continuous Integration servers, greatly reducing boilerplate and merging CI and shell-based testing.
 *  [virtualenv 1.11.6](https://pypi.python.org/pypi/virtualenv/1.11.6)
     -  The CORE virtualenv package
+    -  [Docs](https://virtualenv.pypa.io/en/latest/virtualenv.html#usage)
+*  [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/install.html)
 *  [pyenv 0.0.1](https://pypi.python.org/pypi/pyenv/0.0.1)
 
 ##Code Example sources
