@@ -24,13 +24,20 @@
 -  [Arrow: better dates and times for Python](http://crsmithdev.com/arrow/)
 
 ##ORA Python videos
--  [O'Reilly Introduction to Python](https://openhatch.org/wiki/O%27Reilly_Introduction_to_Python)
+-  [O'Reilly Introduction to Python](http://player.oreilly.com/videos/9781491902141)
+    -  [Notes and files](https://openhatch.org/wiki/O%27Reilly_Introduction_to_Python)
 -  [Intermediate Python: Practical Techniques for Deeper Skill Development](http://player.oreilly.com/videos/9781491904541)
     -  [notes for Int. Python](https://github.com/DevTeam-TheOpenBastion/int-py-notes)
+    -  iPython links
+        +  [iPython Github page](https://github.com/ipython)
+        +  [IPython in-depth Tutorial, first presented at PyCon 2012](https://github.com/ipython/ipython-in-depth)
+        +  [iPython Tutorial](http://ipython.org/ipython-doc/2/interactive/tutorial.html)
 
 ##Web Frameworks
 -  [Django vs Flask vs Pyramid: Choosing a Python Web Framework](https://www.airpair.com/python/posts/django-flask-pyramid?utm_source=Python+Weekly+Newsletter&utm_campaign=2b85e7832e-Python_Weekly_Issue_160_October_9_2014&utm_medium=email&utm_term=0_9e26887fc5-2b85e7832e-312680573)
--  
+-  [The state of Django and Ruby on Rails - one year later](http://screamingatmyscreen.com/2013/8/the-state-of-django-and-ruby-on-rails-one-year-later/)
+    +  Part of my ongoing investigation into WTF makes RoR so popular and how it compares to Django, technically. I'm sure I'll be able to ask better questions about this as I become more technically familiar with Django myself.
+-  [RAILS VS DJANGO: AN IN-DEPTH TECHNICAL COMPARISON](https://bernardopires.com/2014/03/rails-vs-django-an-in-depth-technical-comparison/)
 
 ##Fizzbuzz
 -  [Why Can't Programmers.. Program?](http://blog.codinghorror.com/why-cant-programmers-program/)
