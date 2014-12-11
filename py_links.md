@@ -42,3 +42,23 @@
 ##Fizzbuzz
 -  [Why Can't Programmers.. Program?](http://blog.codinghorror.com/why-cant-programmers-program/)
 -  [Fizz buzz Wikipedia](http://en.wikipedia.org/wiki/Fizz_buzz)
+
+##PyVideos I want to watch
+-  [Teaching Python to undergraduate students](http://pyvideo.org/video/2819/teaching-python-to-undergraduate-students)
+-  [Farewell and Welcome Home: Python in Two Genders](http://pyvideo.org/video/2671/farewell-and-welcome-home-python-in-two-genders)
+-  [Hands-on intro to Python for beginning programmers](http://pyvideo.org/video/2559/hands-on-intro-to-python-for-beginning-programmer)
+    +  Jessica McKellar's PyCon 2014 tutorial
+-  [How the Internet works](http://pyvideo.org/video/1677/how-the-internet-works)
+-  [Diversity in practice: How the Boston Python User Group grew to 1700 people and over 15% women](http://pyvideo.org/video/719/diversity-in-practice-how-the-boston-python-user)
+-  [Blending art, technology, and light, Python for interactive and real time](http://pyvideo.org/video/2619/blending-art-technology-and-light-python-for-i)
+-  [Software Carpentry: Lessons Learned](http://pyvideo.org/video/2649/software-carpentry-lessons-learned)
+    +  I need to hook up with these folks and take their class or teach one
+    +  I'll probably need a separate education/teaching file
+-  [The Python Pipeline: Why you should reach out to local teachers](http://pyvideo.org/video/2694/the-python-pipeline-why-you-should-reach-out-to)
+    +  Pretty sure I've already watched this, but it's a good reference
+-  [Teaching Python: To Infinity and Beyond](http://pyvideo.org/video/2596/teaching-python-to-infinity-and-beyond)
+-  [Character encoding and Unicode in Python](http://pyvideo.org/video/2625/character-encoding-and-unicode-in-python)
+-  [Django for Web Designers and Front End Developers](http://pyvideo.org/video/2624/django-for-web-designers-and-front-end-developers)
+    +  I think I've got this going in YouTube at the moment (2014-12-11T13:04:47-06:00)
+-  [PyCon 2010: The Mighty Dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68)
+    +  A YouTube video, but it's FROM a PyCon. :-)
