@@ -8,4 +8,5 @@
     +  [This version](http://www.amazon.com/Drobo-CTR1D99US1R-Transporter-Private-Cloud/dp/B00BFNJ2NW) has a USB port for a WiFi adapter.
         *  [web site](http://www.filetransporter.com/transporters/for-individuals/)
         *  [PC World Review](http://www.pcworld.com/article/2155460/connected-data-transporter-review-sync-is-its-secret-sauce.html)
--  [OWC] is always a good place to look.
+-  [OWC](https://eshop.macsales.com/shop/firewire/) is always a good place to look.
+    +  I've wanted a [Mercury On-The-Go Pro](https://eshop.macsales.com/shop/firewire/on-the-go) for awhile.
