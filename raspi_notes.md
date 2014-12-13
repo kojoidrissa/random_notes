@@ -2,6 +2,7 @@
 -  [RasPi at Fritzing](http://fritzing.org/projects/by-tag/raspberrypi/)
 -  [Getting started graphic](http://i.imgur.com/AQwILHV.jpg)
 -  [stronger Pi WiFi antentta](http://www.adafruit.com/products/1030)
+-  [RasPi A+](http://www.adafruit.com/products/2266)
 
 ##Buying Rio's Pi
 -  RasPi B+
