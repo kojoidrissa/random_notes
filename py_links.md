@@ -71,3 +71,10 @@
 -  [Encoding and Decoding Python Strings Series](http://www.pythoncentral.io/series/python-encoding-decoding-strings/)
     +  In Python 2.x and 3.x
 
+##Ren'Py
+-  http://www.renpy.org/latest.html
+-  http://games.renpy.org/game/lets-go-hiragana
+-  http://www.renpy.org/doc/html/language_basics.html
+-  http://www.renpy.org/doc/html/quickstart.html#releasing-your-game
+-  
+
