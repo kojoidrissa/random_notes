@@ -58,8 +58,6 @@
     +  Pretty sure I've already watched this, but it's a good reference
 -  [Teaching Python: To Infinity and Beyond](http://pyvideo.org/video/2596/teaching-python-to-infinity-and-beyond)
 -  [Character encoding and Unicode in Python](http://pyvideo.org/video/2625/character-encoding-and-unicode-in-python)
--  [Django for Web Designers and Front End Developers](http://pyvideo.org/video/2624/django-for-web-designers-and-front-end-developers)
-    +  I think I've got this going in YouTube at the moment (2014-12-11T13:04:47-06:00)
 -  [PyCon 2010: The Mighty Dictionary](https://www.youtube.com/watch?v=C4Kc8xzcA68)
     +  A YouTube video, but it's FROM a PyCon. :-)
 -  [Code Reading Python](http://pyvideo.org/video/2283/code-reading-python)
