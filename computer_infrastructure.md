@@ -10,3 +10,9 @@
         *  [PC World Review](http://www.pcworld.com/article/2155460/connected-data-transporter-review-sync-is-its-secret-sauce.html)
 -  [OWC](https://eshop.macsales.com/shop/firewire/) is always a good place to look.
     +  I've wanted a [Mercury On-The-Go Pro](https://eshop.macsales.com/shop/firewire/on-the-go) for awhile.
+
+##Deferred Purchases
+Stuff I'd like, but can't worry about now (2014-12-16)
+
+-  [G-Boom](http://gprojectgear.com/products/g-boom)
+    +  Any of their speakers should work. Sherman at the Lab has a G-Go.
