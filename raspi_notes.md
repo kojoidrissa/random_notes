@@ -15,3 +15,13 @@
     +  I want a [Coupe](http://www.mcmelectronics.com/product/83-16422?green=CDE56907-AC72-5CF4-B07A-4F14285B4A0D) for myself. :-); same price at Adafruit **ORDERED**
 -  MicroSD card: I can get it locally
 -  HDMI cable: 3 ft should be enough. MAYBE 6 ft?
+
+##Getting Started
+-  [GETTING STARTED WITH MINECRAFT PI](http://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/worksheet.md)
+-  [New Pi web browser](http://www.raspberrypi.org/web-browser-released/)
+-  [Updating/Upgrading your Pi software](http://www.raspberrypi.org/new-raspbian-and-noobs-releases/)
+    +  Good info in the comments
+-  [NOOBS Setup](http://www.raspberrypi.org/help/noobs-setup/)
+    +  Includes video
+-  [Sonic Pi info](http://www.raspberrypi.org/tag/sonic-pi/)
+    +  Rio might like this as she gets into music more.
