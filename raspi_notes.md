@@ -11,7 +11,7 @@
 -  [WiFi adapter](http://www.mcmelectronics.com/product/831-2761)
     +  or [this](http://www.adafruit.com/products/814) from Adafruit **in-cart**
 -  [Bluetooth Keyboard and mouse](http://www.adafruit.com/product/1738) **in-cart**
--  [PiBow case](http://www.mcmelectronics.com/product/83-16420?green=CDE56907-AC72-5CF4-B07A-4F14285B4A0D); same price at Adafruit
-    +  I want a [Coupe](http://www.mcmelectronics.com/product/83-16422?green=CDE56907-AC72-5CF4-B07A-4F14285B4A0D) for myself. :-); same price at Adafruit
+-  [PiBow case](http://www.mcmelectronics.com/product/83-16420?green=CDE56907-AC72-5CF4-B07A-4F14285B4A0D); same price at Adafruit **in-cart**
+    +  I want a [Coupe](http://www.mcmelectronics.com/product/83-16422?green=CDE56907-AC72-5CF4-B07A-4F14285B4A0D) for myself. :-); same price at Adafruit **in-cart**
 -  MicroSD card: I can get it locally
 -  HMDI cable: 3 ft should be enough. MAYBE 6 ft?
