@@ -38,6 +38,14 @@
 -  [The state of Django and Ruby on Rails - one year later](http://screamingatmyscreen.com/2013/8/the-state-of-django-and-ruby-on-rails-one-year-later/)
     +  Part of my ongoing investigation into WTF makes RoR so popular and how it compares to Django, technically. I'm sure I'll be able to ask better questions about this as I become more technically familiar with Django myself.
 -  [RAILS VS DJANGO: AN IN-DEPTH TECHNICAL COMPARISON](https://bernardopires.com/2014/03/rails-vs-django-an-in-depth-technical-comparison/)
+###Mini-frameworks and static sites
+-  [Google Search: Pelican vs. Flask](https://www.google.com/search?client=safari&rls=en&q=pelican+vs.+flask&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=9HTrU6fjA8jJ8gezsYH4DQ)
+-  [Push-to-deploy static sites with Pelican, Flask and Github](http://blog.marksteve.com/push-to-deploy-static-sites-with-pelican-flask-and-github)
+    -  [marksteve / pelican_deployer.py](marksteve / pelican_deployer.py)
+-  [Flask. Draft. And Awesome](http://waynewerner.com/blog/flask-draft-and-awesome.html)
+-  [Publishing to GitHub with Pelican](http://docs.getpelican.com/en/3.3.0/tips.html#publishing-to-github)
+    -  [Setting up a custom domain with GitHub Pages](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/)
+-  
 
 ##Fizzbuzz
 -  [Why Can't Programmers.. Program?](http://blog.codinghorror.com/why-cant-programmers-program/)
@@ -74,5 +82,9 @@
 -  http://games.renpy.org/game/lets-go-hiragana
 -  http://www.renpy.org/doc/html/language_basics.html
 -  http://www.renpy.org/doc/html/quickstart.html#releasing-your-game
--  
 
+##Other
+-  [Anaconda turns your Sublime Text 3 in a full featured Python development IDE](https://github.com/DamnWidget/anaconda)
+
+##Windows-specific
+-  [How To Install Python, pip, and virtualenv on Windows with PowerShell](http://www.tylerbutler.com/2012/05/how-to-install-python-pip-and-virtualenv-on-windows-with-powershell/)
