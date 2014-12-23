@@ -76,6 +76,8 @@
 -  [Hashing Files with Python](Hashing Files with Python)
 -  [Encoding and Decoding Python Strings Series](http://www.pythoncentral.io/series/python-encoding-decoding-strings/)
     +  In Python 2.x and 3.x
+-  [Anna Ravenscroft on PyVideo](http://pyvideo.org/search?models=videos.video&q=Anna+Ravenscroft)
+    +  Diversity talks
 
 ##Ren'Py
 -  http://www.renpy.org/latest.html
@@ -88,3 +90,12 @@
 
 ##Windows-specific
 -  [How To Install Python, pip, and virtualenv on Windows with PowerShell](http://www.tylerbutler.com/2012/05/how-to-install-python-pip-and-virtualenv-on-windows-with-powershell/)
+
+##Brython
+-  [Brython](http://www.brython.info/index.html)
+-  [Github repo](https://github.com/brython-dev/brython)
+
+##Python Practice Projects
+-  [Purcahse](https://gumroad.com/l/cSIzC)
+-  [Home Site](http://pythonpracticeprojects.com)
+-  [Static Site Generator](http://pythonpracticeprojects.com/static-site-generator.html)
