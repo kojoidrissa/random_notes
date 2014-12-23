@@ -96,6 +96,10 @@
 -  [Github repo](https://github.com/brython-dev/brython)
 
 ##Python Practice Projects
--  [Purcahse](https://gumroad.com/l/cSIzC)
+-  [Purchase](https://gumroad.com/l/cSIzC)
 -  [Home Site](http://pythonpracticeprojects.com)
 -  [Static Site Generator](http://pythonpracticeprojects.com/static-site-generator.html)
+
+##Unicode
+-  [Unicode In Python, Completely Demystified](http://farmdev.com/talks/unicode/)
+-  
