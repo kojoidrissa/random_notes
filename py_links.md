@@ -102,4 +102,8 @@
 
 ##Unicode
 -  [Unicode In Python, Completely Demystified](http://farmdev.com/talks/unicode/)
+
+##Python Packaging
+-  [Tool Recommendations](https://packaging.python.org/en/latest/current.html)
+-  [Wheel: A built-package format for Python.](https://pypi.python.org/pypi/wheel/0.24.0)
 -  
