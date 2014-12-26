@@ -106,4 +106,6 @@
 ##Python Packaging
 -  [Tool Recommendations](https://packaging.python.org/en/latest/current.html)
 -  [Wheel: A built-package format for Python.](https://pypi.python.org/pypi/wheel/0.24.0)
--  
+
+##Community Building
+-  [What Every Coder Community Can Learn From Python](http://www.fastcolabs.com/3015524/what-every-coder-community-can-learn-from-python)
