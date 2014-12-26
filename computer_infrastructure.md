@@ -16,3 +16,6 @@ Stuff I'd like, but can't worry about now (2014-12-16)
 
 -  [G-Boom](http://gprojectgear.com/products/g-boom)
     +  Any of their speakers should work. Sherman at the Lab has a G-Go.
+
+##Windows-specific issues
+-  [Chocolatey is a package manager for Windows (like apt-get or yum but for Windows)](https://chocolatey.org)
