@@ -7,3 +7,7 @@
 -  [There aren't enough teachers with coding skills](http://www.marketplace.org/topics/education/learningcurve/there-arent-enough-teachers-coding-skills)
     +  This may be part of my "growing" the Python community
 -  
+
+##Coding for kids
+-  [List of ORA books](http://shop.oreilly.com/category/deals/learn-programming.do?code=HDCODE&imm_mid=0c885e&cmp=em-prog-books-videos-lp-owo_teach_kid_code)
+    +  Despite the special 'sale' being over, it's still a good list to refer to.
