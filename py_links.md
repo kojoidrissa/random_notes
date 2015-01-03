@@ -13,6 +13,13 @@
 *  [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/install.html)
 *  [pyenv 0.0.1](https://pypi.python.org/pypi/pyenv/0.0.1)
 *  [The Hitchhiker's Guide to Virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
+    -  My Python paths
+        +  `/usr/bin/python2.7`
+            *  Apple's default Python 2.6
+        +  `//anaconda/bin/python`
+            *  Anaconda Python 3.4.1
+*  [Virtualenv Tutorial Part 2](http://simononsoftware.com/virtualenv-tutorial-part-2/)
+    -  includes Virtualenvwrapper
 
 ##Code Example sources
 -  [Mining the Social Web, 2nd Edition](http://shop.oreilly.com/product/0636920030195.do)
