@@ -12,6 +12,7 @@
     -  [Docs](https://virtualenv.pypa.io/en/latest/virtualenv.html#usage)
 *  [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/en/latest/install.html)
 *  [pyenv 0.0.1](https://pypi.python.org/pypi/pyenv/0.0.1)
+*  [The Hitchhiker's Guide to Virtualenv](http://docs.python-guide.org/en/latest/dev/virtualenvs/)
 
 ##Code Example sources
 -  [Mining the Social Web, 2nd Edition](http://shop.oreilly.com/product/0636920030195.do)
