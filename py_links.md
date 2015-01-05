@@ -51,6 +51,7 @@
 -  [Push-to-deploy static sites with Pelican, Flask and Github](http://blog.marksteve.com/push-to-deploy-static-sites-with-pelican-flask-and-github)
     -  [marksteve / pelican_deployer.py](marksteve / pelican_deployer.py)
 -  [Flask. Draft. And Awesome](http://waynewerner.com/blog/post/flask-draft-and-awesome.html)
+    +  This seems almost like [Part 2](http://waynewerner.com/blog/post/new-blag-generator.html) or what's above.
 -  [Publishing to GitHub with Pelican](http://docs.getpelican.com/en/3.3.0/tips.html#publishing-to-github)
     -  [Setting up a custom domain with GitHub Pages](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/)
 -  
