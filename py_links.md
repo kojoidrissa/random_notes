@@ -46,6 +46,7 @@
 -  [The state of Django and Ruby on Rails - one year later](http://screamingatmyscreen.com/2013/8/the-state-of-django-and-ruby-on-rails-one-year-later/)
     +  Part of my ongoing investigation into WTF makes RoR so popular and how it compares to Django, technically. I'm sure I'll be able to ask better questions about this as I become more technically familiar with Django myself.
 -  [RAILS VS DJANGO: AN IN-DEPTH TECHNICAL COMPARISON](https://bernardopires.com/2014/03/rails-vs-django-an-in-depth-technical-comparison/)
+
 ###Mini-frameworks and static sites
 -  [Google Search: Pelican vs. Flask](https://www.google.com/search?client=safari&rls=en&q=pelican+vs.+flask&ie=UTF-8&oe=UTF-8&gfe_rd=cr&ei=9HTrU6fjA8jJ8gezsYH4DQ)
 -  [Push-to-deploy static sites with Pelican, Flask and Github](http://blog.marksteve.com/push-to-deploy-static-sites-with-pelican-flask-and-github)
@@ -54,7 +55,17 @@
     +  This seems almost like [Part 2](http://waynewerner.com/blog/post/new-blag-generator.html) or what's above.
 -  [Publishing to GitHub with Pelican](http://docs.getpelican.com/en/3.3.0/tips.html#publishing-to-github)
     -  [Setting up a custom domain with GitHub Pages](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/)
--  
+
+###Hosting options (from 2015-01 PyWeb meetup)
+-  [DigitalOcean](https://www.digitalocean.com/pricing/)
+    +  Smallest "slice" available
+-  [WebFaction](https://www.webfaction.com/features)
+    +  What I'll probably start with
+-  [Linode](https://www.linode.com/pricing)
+-  [Amazon EC2](http://aws.amazon.com/ec2/)
+-  [RamNode](http://ramnode.com/vps.php)
+    +  Tertius has `512MB CVZ   512 / 256 MB    2 Cores 1   /64 150 GB  2000 GB $5 / mo` under [Massive] OpenVZ SSD-Cached
+
 
 ##Fizzbuzz
 -  [Why Can't Programmers.. Program?](http://blog.codinghorror.com/why-cant-programmers-program/)
