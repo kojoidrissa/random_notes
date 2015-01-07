@@ -53,8 +53,16 @@
     -  [marksteve / pelican_deployer.py](marksteve / pelican_deployer.py)
 -  [Flask. Draft. And Awesome](http://waynewerner.com/blog/post/flask-draft-and-awesome.html)
     +  This seems almost like [Part 2](http://waynewerner.com/blog/post/new-blag-generator.html) or what's above.
+
+####Pelican-specific for my Github.io site
 -  [Publishing to GitHub with Pelican](http://docs.getpelican.com/en/3.3.0/tips.html#publishing-to-github)
     -  [Setting up a custom domain with GitHub Pages](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/)
+*  [Publishing to GitHub](http://docs.getpelican.com/en/3.5.0/tips.html)
+*  [User, Organization, and Project Pages](https://help.github.com/articles/user-organization-and-project-pages/)
+*  [ghp-import: Easily import docs to your gh-pages branch](https://github.com/davisp/ghp-import)
+    -  I MAY not need this for my user site.
+*  [A simple Git deployment strategy for static sites](http://nicolasgallagher.com/simple-git-deployment-strategy-for-static-sites/)
+    -  inspired the `Push to Deploy...` article above
 
 ###Hosting options (from 2015-01 PyWeb meetup)
 -  [DigitalOcean](https://www.digitalocean.com/pricing/)
