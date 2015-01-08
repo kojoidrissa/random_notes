@@ -27,3 +27,7 @@
     +  Rio might like this as she gets into music more.
     +  [Getting Started with Sonic Pi 2](http://www.raspberrypi.org/resource/sonic-pi-2-taster/)
 -  [Teach/Learn/Make Resources](http://www.raspberrypi.org/resources/): a HUGE number of projects to try. I haven't even LOOKED at all of these yet, but each one I *have* looked at seems awesome.
+
+##Pi variants
+-  [ODROID-C1: Quad Core Linux computer is now $35.00.](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G141578608433)
+    +  How well does it work with the rest of the RasPi ecosystem?
