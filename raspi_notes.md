@@ -28,6 +28,19 @@
     +  [Getting Started with Sonic Pi 2](http://www.raspberrypi.org/resource/sonic-pi-2-taster/)
 -  [Teach/Learn/Make Resources](http://www.raspberrypi.org/resources/): a HUGE number of projects to try. I haven't even LOOKED at all of these yet, but each one I *have* looked at seems awesome.
 
+##RasPi Super Computer
+This guy made a series of 4 videos making a super-cluster with B+s
+
+-  [Raspberry Pi B+ Cluster (Super Computer) Part 1](https://www.youtube.com/watch?v=JtX9lVDsqzg)
+-  [Raspberry Pi B+ Cluster (Super Computer) Part 2](https://www.youtube.com/watch?v=vHJ4ZeXT_Zc)
+-  [Raspberry Pi B+ Cluster (Super Computer) Part 3](https://www.youtube.com/watch?v=x3WIp3z218I)
+-  [Raspberry Pi B+ Cluster (Super Computer) Part 4](https://www.youtube.com/watch?v=FGX2s8UMnIE)
+
 ##Pi variants
 -  [ODROID-C1: Quad Core Linux computer is now $35.00.](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G141578608433)
     +  How well does it work with the rest of the RasPi ecosystem?
+
+##Other Pi Hardware projects
+-  [Pi SP - The Worlds Smallest Portable Raspberry Pi in a GBA SP Case!](https://www.youtube.com/watch?v=KSBGk25Vamk)
+    +  Made with the [Odroid W](http://www.hardkernel.com/main/products/prdt_info.php?g_code=g140610189490)
+        *  Also available from [Ameridroid](http://ameridroid.com/products/odroid-w)
