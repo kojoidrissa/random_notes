@@ -5,6 +5,7 @@
 -  [2D Printing Toolbox for Blender 2.6](http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/PrintToolbox)
 -  [Blender hardware requirements](http://www.blender.org/download/requirements/)
 -  [OpenSCAD](https://www.google.com/search?q=openscad&oq=openscad&aqs=chrome..69i57j69i61l3.3349j0j7&sourceid=chrome&es_sm=91&ie=UTF-8)
+    +  Cauley's [OpenJSCAD](http://modifi3d.lablackey.com)
 
 ##Project ideas
 -  Parts for a Geodisic [mini-dome](http://www.thingiverse.com/thing:26860)
