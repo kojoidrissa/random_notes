@@ -1,5 +1,8 @@
 #Software, materials and project ideas for 3D printing
 
+##Info/notes
+-  [Cauley's notes](http://chriscauley.github.io/3d-printing/#slide-0)
+
 ##Software
 -  [Google Search: `blender 3d printing`](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=blender%203d%20printing)
 -  [2D Printing Toolbox for Blender 2.6](http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Modeling/PrintToolbox)
