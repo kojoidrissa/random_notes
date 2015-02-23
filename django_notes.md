@@ -15,4 +15,12 @@
 >  This isn’t impressive with only two fields, but for admin forms with dozens of fields, choosing an intuitive order is an important usability detail.
 -  Look into the [list_disply](https://docs.djangoproject.com/en/1.7/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_display) properties
 -  learn how to use/reset the `django.contrib.admin.AdminSite.site_header` [attribute](https://docs.djangoproject.com/en/1.7/ref/contrib/admin/#django.contrib.admin.AdminSite.site_header). Do this instead of manually editing the `base_header.html` file
+    +  the [template loader](https://docs.djangoproject.com/en/1.7/ref/templates/api/#template-loaders) docs might help
+
+###Part 3
+-  In the following code, in `kojoidrissadotcom/kojoidrissadotcom/urls.py` why does polls.urls need quites and admin.site.urls NOT? Is it because polls.urls is a custom module?
+<code>url(r'^polls/', include('polls.urls')),
+    url(r'^admin/', include(admin.site.urls)),
+</code>
+-  Get familiar with Python's [re module](https://docs.python.org/3/library/re.html#module-re) so I can read the regex used in urls.py
 
