@@ -23,4 +23,5 @@
     url(r'^admin/', include(admin.site.urls)),
 </code>
 -  Get familiar with Python's [re module](https://docs.python.org/3/library/re.html#module-re) so I can read the regex used in urls.py
+    -  This is also probably a good time to break out *Introducing Regular Expressions*.
 
