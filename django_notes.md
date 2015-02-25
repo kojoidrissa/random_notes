@@ -24,4 +24,18 @@
 </code>
 -  Get familiar with Python's [re module](https://docs.python.org/3/library/re.html#module-re) so I can read the regex used in urls.py
     -  This is also probably a good time to break out *Introducing Regular Expressions*.
+*  In the updated index view, what does the '-pub_date' mean? Is that telling it to take things in reverse order? [Yes](https://docs.djangoproject.com/en/1.7/ref/models/querysets/#order-by) it does.
+    -  `latest_question_list = Question.objects.order_by('-pub_date')[:5]`
+*  I need to fully grok Template Namespacing. The [reusable apps tutorial](https://docs.djangoproject.com/en/1.7/intro/reusable-apps/) may help with this. I used  `polls/templates/polls/index.html`. This allows me to use `polls/index.html` as the name of the template in my views.index.
+*  "See the [template guide](https://docs.djangoproject.com/en/1.7/topics/templates/) for more about templates."
+
+###Part 4: Forms
+-  I'm not familiar with the "for" attribute in the HTML `<label>` tag.
+-  read up on the [`{% csrf_token %}`](https://docs.djangoproject.com/en/1.7/ref/templates/builtins/#std:templatetag-csrf_token) tag.
+-  read up on [`HttpResponseRedirect`](https://docs.djangoproject.com/en/1.7/ref/request-response/#django.http.HttpResponseRedirect) and [`reverse()`](https://docs.djangoproject.com/en/1.7/ref/urlresolvers/#django.core.urlresolvers.reverse)
+-  "As mentioned in Tutorial 3, request is a [HttpRequest](https://docs.djangoproject.com/en/1.7/ref/request-response/#django.http.HttpRequest) object. For more on HttpRequest objects, see the [request and response documentation](https://docs.djangoproject.com/en/1.7/ref/request-response/)."
+-  from the polls/results.html template: `vote{{ choice.votes|pluralize }}`; is that the UNION of...something?
+-  Go back through "Use generic views: Less code is better" section
+
+###Part 5
 
