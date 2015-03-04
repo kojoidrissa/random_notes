@@ -138,3 +138,7 @@
 
 ##Community Building/Improvement
 -  [What Every Coder Community Can Learn From Python](http://www.fastcolabs.com/3015524/what-every-coder-community-can-learn-from-python)
+
+##Data Analysis
+-  [Linear Regression implementation in Python](http://dataconomy.com/linear-regression-implementation-in-python/)
+    +  A good starting point for me, since I'm already familiar with Linear Regression.
