@@ -45,15 +45,17 @@ This guy made a series of 4 videos making a super-cluster with B+s
 ##Minecraft
 -  [GETTING STARTED WITH MINECRAFT PI](http://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/worksheet/)
 -  [How to Create A Minecraft Server Like Mine on your Raspberry Pi](http://picraftbukkit.webs.com/pi-minecraft-server-how-to)
+-  [STAR WARS EPISODE 3.14: A NEW HOPE](http://www.raspberrypi.org/star-wars-episode-3-14-a-new-hope/)
+-  [Edwin Jones' Minecraft Pi projects](http://edwinjones.me.uk/rants/minecrafted.aspx)
+
+###Links from 'Stuff About Code', the site of the author of "Adventures in Minecraft"
+-  [Adventures in Minecraft](http://www.amazon.com/Adventures-Minecraft-David-Whale/dp/111894691X); I probably need this book
 -  [Minecraft Python API](http://www.stuffaboutcode.com/p/minecraft-api-reference.html)
 -  [Minecraft RaspberryJuice and Canarymod](http://www.stuffaboutcode.com/2014/10/minecraft-raspberryjuice-and-canarymod.html)
     +  allows you to run the same programs you developed for Minecraft on the Raspberry Pi on the full version of Minecraft.
     +  [Github repo page](https://github.com/martinohanlon/canaryraspberryjuice)
 -  Page full of Minecraft: Pi Edition [info and links](http://www.stuffaboutcode.com/p/minecraft.html)
 -  [Raspberry Pi 2 Minecraft Server](http://www.stuffaboutcode.com/2015/02/raspberry-pi-2-minecraft-server.html)
--  [STAR WARS EPISODE 3.14: A NEW HOPE](http://www.raspberrypi.org/star-wars-episode-3-14-a-new-hope/)
--  [Edwin Jones' Minecraft Pi projects](http://edwinjones.me.uk/rants/minecrafted.aspx)
--  [Adventures in Minecraft](http://www.amazon.com/Adventures-Minecraft-David-Whale/dp/111894691X); I probably need this book
 
 
 ##Other Pi Hardware projects
