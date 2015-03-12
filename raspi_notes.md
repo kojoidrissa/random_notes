@@ -27,6 +27,8 @@
     +  Rio might like this as she gets into music more.
     +  [Getting Started with Sonic Pi 2](http://www.raspberrypi.org/resource/sonic-pi-2-taster/)
 -  [Teach/Learn/Make Resources](http://www.raspberrypi.org/resources/): a HUGE number of projects to try. I haven't even LOOKED at all of these yet, but each one I *have* looked at seems awesome.
+-  [RasPi docs](http://www.raspberrypi.org/explore-your-raspberry-pi-with-our-usage-guide/)
+    +  [on Github](https://github.com/raspberrypi/documentation)
 
 ##RasPi Super Computer
 This guy made a series of 4 videos making a super-cluster with B+s
@@ -39,6 +41,20 @@ This guy made a series of 4 videos making a super-cluster with B+s
 ##Pi variants
 -  [ODROID-C1: Quad Core Linux computer is now $35.00.](http://www.hardkernel.com/main/products/prdt_info.php?g_code=G141578608433)
     +  How well does it work with the rest of the RasPi ecosystem?
+
+##Minecraft
+-  [GETTING STARTED WITH MINECRAFT PI](http://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/worksheet/)
+-  [How to Create A Minecraft Server Like Mine on your Raspberry Pi](http://picraftbukkit.webs.com/pi-minecraft-server-how-to)
+-  [Minecraft Python API](http://www.stuffaboutcode.com/p/minecraft-api-reference.html)
+-  [Minecraft RaspberryJuice and Canarymod](http://www.stuffaboutcode.com/2014/10/minecraft-raspberryjuice-and-canarymod.html)
+    +  allows you to run the same programs you developed for Minecraft on the Raspberry Pi on the full version of Minecraft.
+    +  [Github repo page](https://github.com/martinohanlon/canaryraspberryjuice)
+-  Page full of Minecraft: Pi Edition [info and links](http://www.stuffaboutcode.com/p/minecraft.html)
+-  [Raspberry Pi 2 Minecraft Server](http://www.stuffaboutcode.com/2015/02/raspberry-pi-2-minecraft-server.html)
+-  [STAR WARS EPISODE 3.14: A NEW HOPE](http://www.raspberrypi.org/star-wars-episode-3-14-a-new-hope/)
+-  [Edwin Jones' Minecraft Pi projects](http://edwinjones.me.uk/rants/minecrafted.aspx)
+-  [Adventures in Minecraft](http://www.amazon.com/Adventures-Minecraft-David-Whale/dp/111894691X); I probably need this book
+
 
 ##Other Pi Hardware projects
 -  [Pi SP - The Worlds Smallest Portable Raspberry Pi in a GBA SP Case!](https://www.youtube.com/watch?v=KSBGk25Vamk)
