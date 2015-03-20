@@ -1,11 +1,15 @@
 #Notes on Django and related topics
 
 ##Videos to watch
--  [DjangoCon 2014- AngularJS + Django = A Perfect Match](https://www.youtube.com/watch?v=vWJorwEQWLk)
+-  [Building a Blog with Django 1.7 in 16 mins](https://www.youtube.com/watch?v=7rgph8en0Jc)
+    +  [Recreating the “Building a Blog in Django” Screencast](http://arunrocks.com/recreating-the-building-a-blog-in-django-screencast/)
+-  [Kenneth Love: Getting Started with Django, a crash course - PyCon 2014](https://www.youtube.com/watch?v=KZHXjGP71kQ)
 -  [Django for Web Designers and Front End Developers](http://pyvideo.org/video/2624/django-for-web-designers-and-front-end-developers)
     +  I think I've got this going in YouTube at the moment (2014-12-11T13:04:47-06:00)
     +  A 3 hour-tutorial by the same person who did "How I went from Designer to Django Dev in 6 weeks"
+-  [DjangoCon 2014- AngularJS + Django = A Perfect Match](https://www.youtube.com/watch?v=vWJorwEQWLk)
 -  [PyTexas 2014](https://www.youtube.com/results?search_query=pytexas+2014&page=1) on YouTube
+-  [django: Web Development for Perfectionists with Deadlines - Google Talks 2012](https://www.youtube.com/watch?v=n8KnFywpXOE)
 
 ##Django Tutorial
 
@@ -38,4 +42,7 @@
 -  Go back through "Use generic views: Less code is better" section
 
 ###Part 5
+
+##Web Server Setup
+-  Learn more about the CHMOD commands I used in sections [`f, g & g`](http://docs.webfaction.com/user-guide/access.html#linux-and-mac-os-x) of the WebFaction docs 
 
