@@ -15,4 +15,3 @@ For info on bike lights AND basic electronics
     +  [TK75](http://www.fenixlighting.com/products/fenix-tk75-led-flashlight.aspx)
     +  [3000 lumen flashlight on CPF Mall](http://www.candlepowerforums.com/vb/classifieds.php?listing=acebeam-k40m-nib-188451)
 -  [Lumens](http://en.wikipedia.org/wiki/Lumen_(unit))
--  
