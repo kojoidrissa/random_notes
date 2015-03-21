@@ -17,3 +17,6 @@ My current (2014-12-27T21:23:30-06:00) addiction. I'm kind of a sucker for RTS' 
 ###General
 -  [Invent Your Own Computer Games with Python](https://inventwithpython.com/chapters/)
 -  [Making Games with Python and Pygame](https://inventwithpython.com/pygame/index.html)
+
+##Games to learn to code
+-  http://www.codingame.com/start
