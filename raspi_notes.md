@@ -62,3 +62,5 @@ This guy made a series of 4 videos making a super-cluster with B+s
 -  [Pi SP - The Worlds Smallest Portable Raspberry Pi in a GBA SP Case!](https://www.youtube.com/watch?v=KSBGk25Vamk)
     +  Made with the [Odroid W](http://www.hardkernel.com/main/products/prdt_info.php?g_code=g140610189490)
         *  Also available from [Ameridroid](http://ameridroid.com/products/odroid-w)
+-  [MAKE: PROJECTS
+Tutorial: Raspberry Pi GPIO Pins and Python](http://makezine.com/projects/tutorial-raspberry-pi-gpio-pins-and-python/)
