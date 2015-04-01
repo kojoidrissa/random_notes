@@ -11,6 +11,9 @@
 -  [PyTexas 2014](https://www.youtube.com/results?search_query=pytexas+2014&page=1) on YouTube
 -  [django: Web Development for Perfectionists with Deadlines - Google Talks 2012](https://www.youtube.com/watch?v=n8KnFywpXOE)
 
+##DjangoGirls
+-  DjGirls [Resources](http://djangogirls.org/resources/) page. This has links to all their tutorials and their Github repos.
+
 ##Django Tutorial
 
 ###Part 2
@@ -42,6 +45,15 @@
 -  Go back through "Use generic views: Less code is better" section
 
 ###Part 5
+
+##Django Docs
+Specific stuff I want to go back and read
+
+-  [Deploying Django](https://docs.djangoproject.com/en/1.7/howto/deployment/)
+-  [“How-to” guides](https://docs.djangoproject.com/en/1.7/howto/)
+-  [Settings.py](https://docs.djangoproject.com/en/1.7/ref/settings/#core-settings)
+-  [django-admin.py and manage.py](https://docs.djangoproject.com/en/1.7/ref/django-admin/)
+-  s
 
 ##Web Server Setup
 -  Learn more about the CHMOD commands I used in sections [`f, g & g`](http://docs.webfaction.com/user-guide/access.html#linux-and-mac-os-x) of the WebFaction docs 
