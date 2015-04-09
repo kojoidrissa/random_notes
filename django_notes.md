@@ -53,7 +53,7 @@ Specific stuff I want to go back and read
 -  [“How-to” guides](https://docs.djangoproject.com/en/1.7/howto/)
 -  [Settings.py](https://docs.djangoproject.com/en/1.7/ref/settings/#core-settings)
 -  [django-admin.py and manage.py](https://docs.djangoproject.com/en/1.7/ref/django-admin/)
--  s
+-  [Making queries](https://docs.djangoproject.com/en/1.7/topics/db/queries/#field-lookups-intro)
 
 ##Web Server Setup
 -  Learn more about the CHMOD commands I used in sections [`f, g & g`](http://docs.webfaction.com/user-guide/access.html#linux-and-mac-os-x) of the WebFaction docs 
