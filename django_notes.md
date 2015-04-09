@@ -58,3 +58,5 @@ Specific stuff I want to go back and read
 ##Web Server Setup
 -  Learn more about the CHMOD commands I used in sections [`f, g & g`](http://docs.webfaction.com/user-guide/access.html#linux-and-mac-os-x) of the WebFaction docs 
 
+##DjangoGirls
+-  Their [Resources](http://djangogirls.org/resources/) page has a lot of good info.
