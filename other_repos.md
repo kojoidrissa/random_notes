@@ -14,3 +14,6 @@ A list of Github (and perhaps other) repos that I want to look into. I'm listing
 ##DjangoGirls
 -  DjGirls [Resources](http://djangogirls.org/resources/) page. This has links to all their tutorials and their Github repos.
 
+##From Meetups
+-  Gene Dan's [R/Knitr presentation](https://github.com/kojoidrissa/meetup_presentations/tree/master/hdv_knitr)
+

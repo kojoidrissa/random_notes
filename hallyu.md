@@ -7,3 +7,4 @@ As I begin to actually STUDY the Korean Wave, as a lens into Korean culture, I'm
     +  It seems this is a thing
 -  [I Read A Book: K-Pop: Roots and Blossoming of Korean Popular Music](http://thelearnedfangirl.com/2013/01/08/i-read-a-book-k-pop-roots-and-blossoming-of-korean-popular-music/)
 -  [Guide for the Perplexed: Kpop, or how I learned to Stop Worrying about the Lyrics and Love Korean Pop](http://thelearnedfangirl.com/2012/01/10/guide-for-the-perplexed-kpop-or-how-i-learned-to-stop-worrying-about-the-lyrics-and-love-korean-pop/)
+-  [KPop Vocal Analysis](https://kpopvocalanalysis.wordpress.com/) This site has CRAZILY in-depth analysis of the vocal skills of various idols. Not, "I like this one better", but, "I'm a trained singer, evaluating how these people use their voices".
