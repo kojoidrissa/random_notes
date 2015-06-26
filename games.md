@@ -20,3 +20,9 @@ My current (2014-12-27T21:23:30-06:00) addiction. I'm kind of a sucker for RTS' 
 
 ##Games to learn to code
 -  http://www.codingame.com/start
+
+##D&D Related
+###[Neverwinter](http://www.arcgames.com/en/games/neverwinter)
+-  Free to play, online
+-  [Good](http://www.polygon.com/2013/7/16/4529768/neverwinter-review-new-dawn) [reviews](http://www.polygon.com/game/neverwinter/3188)
+-  [Foundry](http://www.arcgames.com/en/games/neverwinter/news/tag/foundry-spotlight) lets you create your own content.
