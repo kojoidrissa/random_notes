@@ -1,8 +1,10 @@
 #My 2015-07-25 "reboot" of my Personal Coding Boot Camp
+What I did right, wrong and how I'd go about it if I were starting over (as of July 2015)
 
-So, here are new resources and lessons I've gathered from my journey so far.
+##Dos and Don'ts
 
 ##Resources
+So, here are new resources and lessons I've gathered from my journey so far.
 -  http://www.freecodecamp.com/
     +  Learn JS while "building projects for nonprofits"
 
@@ -16,4 +18,5 @@ So, here are new resources and lessons I've gathered from my journey so far.
 
 ##Job Search
 -  Indeed.com
--  MD Anderson (where Lita works) 
+-  MD Anderson (where Lita works)
+-  dice.com (I suggested this to Zhu Ning on 2015-08-10)
