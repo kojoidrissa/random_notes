@@ -11,8 +11,9 @@
 -  [PyTexas 2014](https://www.youtube.com/results?search_query=pytexas+2014&page=1) on YouTube
 -  [django: Web Development for Perfectionists with Deadlines - Google Talks 2012](https://www.youtube.com/watch?v=n8KnFywpXOE)
 
-##DjangoGirls
--  DjGirls [Resources](http://djangogirls.org/resources/) page. This has links to all their tutorials and their Github repos.
+##Django Girls
+-  Django Girls [Resources](http://djangogirls.org/resources/) page. This has links to all their tutorials and their Github repos.
+    +  I think the [Django Girls tutorial](http://tutorial.djangogirls.org/) is the BEST beginner tutorial for Django. The "Official" Django tutorial should be your second stop.
 
 ##Django Tutorial
 
@@ -57,6 +58,3 @@ Specific stuff I want to go back and read
 
 ##Web Server Setup
 -  Learn more about the CHMOD commands I used in sections [`f, g & g`](http://docs.webfaction.com/user-guide/access.html#linux-and-mac-os-x) of the WebFaction docs 
-
-##DjangoGirls
--  Their [Resources](http://djangogirls.org/resources/) page has a lot of good info.
