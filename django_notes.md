@@ -57,4 +57,13 @@ Specific stuff I want to go back and read
 -  [Making queries](https://docs.djangoproject.com/en/1.7/topics/db/queries/#field-lookups-intro)
 
 ##Web Server Setup
--  Learn more about the CHMOD commands I used in sections [`f, g & g`](http://docs.webfaction.com/user-guide/access.html#linux-and-mac-os-x) of the WebFaction docs 
+-  Learn more about the CHMOD commands I used in sections [`f, g & g`](http://docs.webfaction.com/user-guide/access.html#linux-and-mac-os-x) of the WebFaction docs
+
+##Getting Mezzanine installed on WebFaction
+-  [Installing Mezzanine on Webfaction with Apache and WSGI](http://grasshopperpebbles.com/mezzanine/installing-mezzanine-on-webfaction-with-apache-and-wsgi/)
+    +  My primary document
+-  [WebFaction Django docs](https://docs.webfaction.com/software/django/index.html)
+-  [Setting up Django in Virtualenv on WebFaction's Apache with mod_wsgi](http://michal.karzynski.pl/blog/2013/09/14/django-in-virtualenv-on-webfactions-apache-with-mod-wsgi/)
+    +  still not 100% sure WHY you'd want your site running in a venv OR if it's a good idea. But my PythonAnywhere site does.
+-  [Django docs on mod_wsgi w/ a virtualenv](https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/modwsgi/#using-a-virtualenv)
+    +  Again, no "why" or use cases
