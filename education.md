@@ -14,4 +14,9 @@
 
 ##Online Textbooks
 -  [Library Genesis](http://gen.lib.rus.ec/)
-    -  Learned about this during the 2014-01 PyLadiesHTX meetup. Home to ALL THE TEXTBOOKS. :-) 
+    -  Learned about this during the 2014-01 PyLadiesHTX meetup. Home to ALL THE TEXTBOOKS. :-)
+
+
+##Teaching with Code
+-  [Trinket](https://trinket.io/)
+    -  First saw them via [Create your own Classic Text Adventure with Python](http://blog.trinket.io/python-text-adventure/)
