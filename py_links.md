@@ -142,3 +142,10 @@
 ##Data Analysis
 -  [Linear Regression implementation in Python](http://dataconomy.com/linear-regression-implementation-in-python/)
     +  A good starting point for me, since I'm already familiar with Linear Regression.
+
+##Comprehensions & Generators: From Kenneth Love's Saturday Discussion
+-  https://docs.python.org/3/library/stdtypes.html#typesseq
+-  https://docs.python.org/3/glossary.html#term-generator
+-  https://docs.python.org/3/library/functions.html#zip (THIS I've used)
+-  https://docs.python.org/3/library/itertools.html?highlight=chain#itertools.chain
+
