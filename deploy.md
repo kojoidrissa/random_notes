@@ -8,4 +8,4 @@ While trying to deploy Flask on WebFaction (to test Twilio), I found the followi
 
 BOTH of these seemed to diverge, where one would've expected two tutorials with the same end goal to CONVERGE. I couldn't get them to work, but what do you expect when you mix and match. There are clearly things I don't understand about deployment. But after 3-4 hours of no results, I need to move on.
 
-
+BUT! This [scp tutorial](http://www.hypexr.org/linux_scp_help.php) was helpful, just in general. I hated using nano on the remote host.
