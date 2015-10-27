@@ -10,10 +10,13 @@ A list of Github (and perhaps other) repos that I want to look into. I'm listing
 -  [langcodes](https://github.com/LuminosoInsight/langcodes): *A Python library for working with and comparing language codes.*
 -  [afraid-to-commit](https://github.com/evildmp/afraid-to-commit): *Don't be afraid to commit - a workshop/tutorial for inexperienced Python/Django developers who would like to contribute more to the projects they use.*
 -  [Python Web Sockets](https://github.com/pizzapanther/Python-Web-Sockets): Paul Bailey's PyWebHou presentation on Web Sockets. I need to review his presentation and look at this code.
+-  Personal Goals: [Jeff](https://github.com/jefftriplett/personal-goals), but he forked it from [Una](https://github.com/una/personal-goals), who I've heard on an episode of the CodeNewbies podcast.
 
 ##DjangoGirls
 -  DjGirls [Resources](http://djangogirls.org/resources/) page. This has links to all their tutorials and their Github repos.
 
 ##From Meetups
 -  Gene Dan's [R/Knitr presentation](https://github.com/kojoidrissa/meetup_presentations/tree/master/hdv_knitr)
+
+##Misc
 
