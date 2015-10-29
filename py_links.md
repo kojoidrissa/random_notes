@@ -149,3 +149,5 @@
 -  https://docs.python.org/3/library/functions.html#zip (THIS I've used)
 -  https://docs.python.org/3/library/itertools.html?highlight=chain#itertools.chain
 
+##Self-Study resources
+-  [ORA's 'Become a Python Mastermind' Sale list](http://shop.oreilly.com/category/deals/python.do?code=WKNWPY&imm_mid=0db315&cmp=em-web-books-videos-lp-owo_python_20151029_lc_wknwpy)
