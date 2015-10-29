@@ -114,8 +114,10 @@
 -  http://www.renpy.org/doc/html/language_basics.html
 -  http://www.renpy.org/doc/html/quickstart.html#releasing-your-game
 
-##Other
+##Other/Editors
 -  [Anaconda turns your Sublime Text 3 in a full featured Python development IDE](https://github.com/DamnWidget/anaconda)
+-  [VIM and Python - a Match Made in Heaven](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
+    -  I also saved this to Instapaper
 
 ##Windows-specific
 -  [How To Install Python, pip, and virtualenv on Windows with PowerShell](http://www.tylerbutler.com/2012/05/how-to-install-python-pip-and-virtualenv-on-windows-with-powershell/)
@@ -136,7 +138,7 @@
 -  [Tool Recommendations](https://packaging.python.org/en/latest/current.html)
 -  [Wheel: A built-package format for Python.](https://pypi.python.org/pypi/wheel/0.24.0)
 
-##Community Building/Improvement
+##Community Building/Improvement: Move this to SEJC repo
 -  [What Every Coder Community Can Learn From Python](http://www.fastcolabs.com/3015524/what-every-coder-community-can-learn-from-python)
 
 ##Data Analysis
