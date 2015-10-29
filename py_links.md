@@ -151,3 +151,8 @@
 
 ##Self-Study resources
 -  [ORA's 'Become a Python Mastermind' Sale list](http://shop.oreilly.com/category/deals/python.do?code=WKNWPY&imm_mid=0db315&cmp=em-web-books-videos-lp-owo_python_20151029_lc_wknwpy)
+-  ORA's "Learning Paths"
+    -  [Introduction to Flask](http://shop.oreilly.com/category/learning-path/introduction-to-flask.do)
+        -  Has a video on making Web APIs
+    -  [Become fluent in Python](http://shop.oreilly.com/category/learning-path/become-fluent-in-python.do)
+    -  [Python for Data](http://shop.oreilly.com/category/learning-path/python-for-data.do)
