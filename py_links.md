@@ -99,6 +99,9 @@
     +  A YouTube video, but it's FROM a PyCon. :-)
 -  [Code Reading Python](http://pyvideo.org/video/2283/code-reading-python)
 
+###Pycon
+-  [PyCon 2014 Slides](https://speakerdeck.com/pycon2014)
+
 ##Anonymize.py related/hashing in Python
 -  [a paper from Harvard?](http://www.eecs.harvard.edu/syrah/medinfo/anonymize/anonymize.py)
 -  [Hashing Strings with Python](http://www.pythoncentral.io/hashing-strings-with-python/)
