@@ -1,5 +1,11 @@
 #py_links: Random Python links
 
+##Testing
+-  [Djangocon: Switching from nose to py.test at Mozilla ](http://reinout.vanrees.org/weblog/2015/06/01/09-nose-py-test.html)
+-  [PyTest](http://pytest.org/latest/contents.html)
+-  ["Pytest : helps you write better Djando apps" by Andreas Pelme](https://www.youtube.com/watch?v=aaArYVh6XSM): Video
+-  [Holger Krekel: Improving automated testing with py.test - PyCon 2014](https://www.youtube.com/watch?v=AiThU6JQbE8): video
+
 ##Virtual Env
 -  [pyenv: Simple Python version management](https://github.com/yyuu/pyenv)
 -  [tox 1.8.0: virtualenv-based automation of test activities](https://pypi.python.org/pypi/tox)
@@ -140,9 +146,6 @@
 ##Python Packaging
 -  [Tool Recommendations](https://packaging.python.org/en/latest/current.html)
 -  [Wheel: A built-package format for Python.](https://pypi.python.org/pypi/wheel/0.24.0)
-
-##Community Building/Improvement: Move this to SEJC repo
--  [What Every Coder Community Can Learn From Python](http://www.fastcolabs.com/3015524/what-every-coder-community-can-learn-from-python)
 
 ##Data Analysis
 -  [Linear Regression implementation in Python](http://dataconomy.com/linear-regression-implementation-in-python/)
